@@ -1,0 +1,2 @@
+1. Childish Gambino - III. Life: The Biggest Troll \[[Spotify](https://open.spotify.com/track/1XJXebSUqjmat7YmuMc5HK)\] \[[Youtube](https://www.youtube.com/watch?v=4hDTilkiDDU)\]
+1. Bonobo - First Fires \[[Spotify](https://open.spotify.com/track/7CvmKJHyKMbf8DGytGL41D)\] \[[Youtube](https://www.youtube.com/watch?v=62Z4ibZFA6c)\]
