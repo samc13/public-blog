@@ -1,5 +1,6 @@
 # public-blog
-About me. Thoughts, and very little else
+
+I do not think therefore I do not am.
 
 ## File formats
 
