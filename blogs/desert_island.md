@@ -1,3 +1,10 @@
+---
+title: "Desert Island Soundtrack"
+subtitle: ""
+date: 2026-05-31
+tags: [music]
+---
+
 1. Childish Gambino - III. Life: The Biggest Troll \[[Spotify](https://open.spotify.com/track/1XJXebSUqjmat7YmuMc5HK)\] \[[Youtube](https://www.youtube.com/watch?v=4hDTilkiDDU)\]
 1. Bonobo - First Fires \[[Spotify](https://open.spotify.com/track/7CvmKJHyKMbf8DGytGL41D)\] \[[Youtube](https://www.youtube.com/watch?v=62Z4ibZFA6c)\]
 1. Tame Impala - Let It Happen \[[Spotify](https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed)\] \[[Youtube](https://www.youtube.com/watch?v=pFptt7Cargc)\]

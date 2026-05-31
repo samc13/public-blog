@@ -1,3 +1,10 @@
+---
+title: "Getting Started with AI Tools"
+subtitle: ""
+date: 2025-06-17
+tags: [ai, productivity]
+---
+
 ## CoPilot, Claude, et al 
 
 I'm one of the slow curious adopters of AI, beginning life incredibly skeptical and not believing any of the sensationalist stuff about it taking our jobs. 
